@@ -1,5 +1,5 @@
 h1 {
-    color: #fa9537d5;
+    color: #d47f30d5;
     font-size: 3rem;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -13,6 +13,7 @@ a {
 }
 
 li {
-    color:rgba(238, 255, 0, 0.733);
+    font-size: 1.2rem;
+    color:rgba(205, 216, 44, 0.733);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

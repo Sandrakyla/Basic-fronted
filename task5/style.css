@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #634F2C;
+    color: #65c902;
+    transform: scale(1.2);
+}
