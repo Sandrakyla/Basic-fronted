@@ -1,0 +1,18 @@
+h1 {
+    color: #fa9537d5;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(99, 99, 99);
+}
+
+a {
+    color: inherit;
+}
+
+li {
+    color:rgba(238, 255, 0, 0.733);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
